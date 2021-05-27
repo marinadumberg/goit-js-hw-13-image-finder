@@ -1,4 +1,4 @@
-import pixabay from './pixabay.js';
+import pixabay from './pixabay';
 
 export default class UploadImage {
   constructor() {
